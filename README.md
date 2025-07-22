@@ -10,7 +10,7 @@
 
 
 # Hi, my name is Avam!
-I am a software engineering student who works on projects that relate to my hobbies! I've made a guitar chord detection app that helps me learn new songs and a crypto news app that keeps me up to date with the current trends in the crypto world! I also tinker with Arduino and anything AI-related.
+I am a software engineering student who works on projects that relate to my hobbies! I've made a guitar chord detection app that helps me learn new songs and a crypto news app that keeps me up to date with the current trends in the crypto world! I've also built an application that helps high schoolers navigate confusing university websites, after a friend complained about being overwhelmed!
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  Contact me at [avranck0@gmail.com](mailto:avranck0@@gmail.com)
